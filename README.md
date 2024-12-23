@@ -9,3 +9,5 @@ This project was created using `npx create-expo-app@latest` and all that's reall
 
 # VIDEO
 https://github.com/eeston/expo-router-back-button-issue/blob/main/recording.mp4
+
+https://github.com/expo/expo/issues/33812
